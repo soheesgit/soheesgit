@@ -1,8 +1,3 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=SOHEE&fontSize=50&fontAlign=50&desc=Backend%20Developer%20in%20the%20making&descAlign=50" />
-</p>
-
----
 
 ## 📌 Profile
 
