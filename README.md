@@ -1,8 +1,4 @@
-# 👋 Hi there! I'm soheesgit
-
-### 💻 Dreaming to become a Backend Developer
-꾸준히 성장하며 기록하는 개발자입니다.
-
+# 👋 Hi
 <br/>
 
 ## 🛠 Tech Stack
