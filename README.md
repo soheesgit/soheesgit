@@ -19,12 +19,3 @@
 ## 📝 Blog & Contact
 - **Tech Blog:** [s0h22.tistory.com](https://s0h22.tistory.com/)
 - **Email:** [thgml89567@naver.com](mailto:thgml89567@naver.com)
-
-<br/>
-
-## 📊 Github Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=soheesgit&show_icons=true&theme=radical&hide_border=true" alt="Soheesgit's GitHub stats" />
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soheesgit&layout=compact&theme=radical&hide_border=true" />
-</div>
